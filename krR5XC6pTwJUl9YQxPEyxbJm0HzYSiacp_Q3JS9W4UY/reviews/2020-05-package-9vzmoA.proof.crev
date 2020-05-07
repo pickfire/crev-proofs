@@ -1,0 +1,27 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-05-07T17:47:09.411630242+08:00"
+from:
+  id-type: crev
+  id: krR5XC6pTwJUl9YQxPEyxbJm0HzYSiacp_Q3JS9W4UY
+  url: "https://github.com/pickfire/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: errno
+  version: 0.2.5
+  revision: 78f5e5e035c5f921e36a4cd2d171edc219d64cef
+  digest: "-mh98irXQfh52czBjFViEY-qF8GtJ46CCVINwjLxGgs"
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+alternatives:
+  - source: "https://crates.io"
+    name: nix
+comment: |-
+  read into how errno work and why is it not in libc
+----- SIGN CREV PROOF -----
+wXUVfi_9TSwYjRgzvlYP7VF-UvoNtvHs1J5eIQeE6CUYP6DCj5_jnrUmE_hZZgTecDEFYQdOZoRKy3b4xih9DA
+----- END CREV PROOF -----
+
