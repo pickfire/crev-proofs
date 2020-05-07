@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-07T17:33:08.697165225+08:00"
+from:
+  id-type: crev
+  id: krR5XC6pTwJUl9YQxPEyxbJm0HzYSiacp_Q3JS9W4UY
+  url: "https://github.com/pickfire/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  creator of cargo crev
+----- SIGN CREV PROOF -----
+DY2PMRcW-rNXO_86ePvnyoOcl3bvfAYskSphHmsEx1fQrP0wPQNX1ZHrGW1UQ1GP9nQet7bvLlH7P8qj9y0hBA
+----- END CREV PROOF -----
+
